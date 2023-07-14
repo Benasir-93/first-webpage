@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(226, 231, 235);
+}
+.fa{
+    color: rgb(34, 109, 247);
+}
+.boxpart{
+    padding: 40px 10px;
+}
+a{
+    border-bottom: 1px solid blue;
+    margin-top: 20px;
+}
